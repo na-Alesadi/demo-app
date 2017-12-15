@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f4af5329-77c2-4d2b-bae3-3442eb061c5c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dsgsfg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test2.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -37,8 +38,28 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test1.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="test1.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test1.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test2.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test2.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dsgsfg.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/dsgsfg.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -65,6 +86,8 @@
         <option value="$PROJECT_DIR$/src/App.js" />
         <option value="$PROJECT_DIR$/src/test.js" />
         <option value="$PROJECT_DIR$/src/test1.js" />
+        <option value="$PROJECT_DIR$/test2.js" />
+        <option value="$PROJECT_DIR$/src/dsgsfg.js" />
       </list>
     </option>
   </component>
@@ -165,12 +188,12 @@
       <workItem from="1513345313239" duration="8000" />
       <workItem from="1513345725643" duration="866000" />
       <workItem from="1513355428444" duration="469000" />
-      <workItem from="1513366246020" duration="819000" />
+      <workItem from="1513366246020" duration="1351000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7280000" />
+    <option name="totallyTimeSpent" value="7812000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
@@ -255,6 +278,22 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dsgsfg.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
